@@ -40,13 +40,15 @@ Preferred styles<br>
 Color choices<br>
 Occasion needs<br>
 You can browse through recommended items, which are curated by the app’s algorithm to suit your tastes. You will also have options to filter and sort recommendations based on categories (e.g., Tops, Bottoms, Dresses, etc.).<br>
-<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/ss5.PNG">
+<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/ss5.PNG"><br>
+
 **Step 3: Virtual Try-On**<br>
 One of the key features is the virtual try-on experience. Here’s how it works:<br>
 *Upload an Image:* Upload an image of yourself (or your body silhouette).<br>
 *Try On Clothes:* Select any clothing item from the recommendations and virtually try it on. The app overlays the clothing on your uploaded image to show how it would fit and look on your body. The system uses image processing and machine learning models to ensure the clothing aligns properly with your body shape and image.<br>
 This allows you to visually evaluate the fit, color, and look of the clothing without having to physically try them on.<br>
-<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/teaser.png">
+<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/teaser.png"><br>
+<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/ss6.PNG"><br>
 
 **Step 4: Upload Your Own Outfits**<br>
 Want to see how new clothes pair with your existing wardrobe? You can upload images of your current outfits and experiment with mixing and matching them. This lets you virtually try on new clothing pieces with what you already own.<br>
