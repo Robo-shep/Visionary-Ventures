@@ -7,3 +7,6 @@ Set Preferences: Customize your recommendations by selecting style preferences, 
 Upload Your Outfits: Upload your own outfits, mix and match pieces, and experiment with different styles.
 User-Friendly Interface: An intuitive interface that lets you navigate through outfit suggestions, try-ons, and preferences with ease.
 # TECH STACK
+Frontend: HTML,CSS,JAVASCRIPT,REACT
+Database: MongoDB
+Backend:phython,
