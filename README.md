@@ -23,7 +23,7 @@ Backend:phython,
 **Try-On Virtually**: Use the virtual try-on feature to see how clothes look on your own uploaded image.<br>
 **Upload Outfits**: Upload images of your own outfits and mix and match them.<br>
 # How It Works
-**Step 1: User Profile Setup**
+**Step 1: User Profile Setup**<br>
 Upon signing up or logging in, users are prompted to set up their profile by inputting preferences like:<br>
 *Size:* Provide your general clothing size (e.g., S, M, L, XL).<br>
 *Style Preferences:* Choose your favorite styles (e.g., casual, formal, sporty, etc.).<br>
@@ -42,7 +42,7 @@ One of the key features is the virtual try-on experience. Here’s how it works:
 *Upload an Image:* Upload an image of yourself (or your body silhouette).<br>
 *Try On Clothes:* Select any clothing item from the recommendations and virtually try it on. The app overlays the clothing on your uploaded image to show how it would fit and look on your body. The system uses image processing and machine learning models to ensure the clothing aligns properly with your body shape and image.<br>
 This allows you to visually evaluate the fit, color, and look of the clothing without having to physically try them on.<br>
-**Step 4: Upload Your Own Outfits**
+**Step 4: Upload Your Own Outfits**<br>
 Want to see how new clothes pair with your existing wardrobe? You can upload images of your current outfits and experiment with mixing and matching them. This lets you virtually try on new clothing pieces with what you already own.<br>
 You can combine and save different outfits, making it easy to plan your wardrobe choices and organize your clothes for future reference<br>
 
