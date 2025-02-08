@@ -11,3 +11,13 @@ User-Friendly Interface: An intuitive interface that lets you navigate through o
 Frontend: HTML,CSS,JAVASCRIPT,REACT<br>
 Database: MongoDB
 Backend:phython,
+# Usage
+**Once the app is running:**
+
+*Sign Up / Log In*: Create an account or log in to save your preferences and outfits.<br>
+*Set Preferences*: Choose your clothing preferences, including size, color, and style.<br>
+*Browse Recommendations*: Explore curated outfit recommendations based on your preferences.<br>
+*Try-On Virtually*: Use the virtual try-on feature to see how clothes look on your own uploaded image.<br>
+*Upload Outfit*s: Upload images of your own outfits and mix and match them.<br>
+
+
