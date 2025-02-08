@@ -27,7 +27,7 @@ Backend:phython,
 Upon signing up or logging in, users are prompted to set up their profile by inputting preferences like:<br>
 *Size:* Provide your general clothing size (e.g., S, M, L, XL).<br>
 *Style Preferences:* Choose your favorite styles (e.g., casual, formal, sporty, etc.).<br>
-*Color Choices:*Specify preferred colors for clothing.<br>
+*Color Choices:* Specify preferred colors for clothing.<br>
 *Occasion Types:* Select preferences for different occasions (e.g., work, weekend, parties, etc.).<br>
 This profile setup helps personalize the recommendations and ensures that the clothes suggested match your tastes.<br>
 **Step 2: Clothing Recommendations**<br>
@@ -45,5 +45,6 @@ This allows you to visually evaluate the fit, color, and look of the clothing wi
 **Step 4: Upload Your Own Outfits**<br>
 Want to see how new clothes pair with your existing wardrobe? You can upload images of your current outfits and experiment with mixing and matching them. This lets you virtually try on new clothing pieces with what you already own.<br>
 You can combine and save different outfits, making it easy to plan your wardrobe choices and organize your clothes for future reference<br>
+<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/teaser.png">
 
 
