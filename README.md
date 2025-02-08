@@ -1,4 +1,9 @@
 # Visionary-Ventures
+git add <C:\Users\Dell\Downloads>
+git commit -m "Add image"
+git push origin main
+![banner](C:\Users\Dell\Downloads)
+
 
 **Introduction to Smart Style**<br>
 Welcome to the Smart Style! This app provides personalized clothing suggestions based on your preferences and allows you to virtually try on outfits before making a purchase. Whether you're exploring new trends or updating your wardrobe, this web app is here to help you find the perfect clothes that match your style.
