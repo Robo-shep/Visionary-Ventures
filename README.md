@@ -40,7 +40,7 @@ Preferred styles<br>
 Color choices<br>
 Occasion needs<br>
 You can browse through recommended items, which are curated by the app’s algorithm to suit your tastes. You will also have options to filter and sort recommendations based on categories (e.g., Tops, Bottoms, Dresses, etc.).<br>
-
+<img src="
 **Step 3: Virtual Try-On**<br>
 One of the key features is the virtual try-on experience. Here’s how it works:<br>
 *Upload an Image:* Upload an image of yourself (or your body silhouette).<br>
