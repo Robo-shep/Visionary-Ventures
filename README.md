@@ -57,13 +57,5 @@ You can combine and save different outfits, making it easy to plan your wardrobe
 <img src ="https://github.com/Robo-shep/Visionary-Ventures/blob/main/ss7.PNG">
 <a href="https://github.com/Robo-shep/Visionary-Ventures/blob/main/FASHION%20%26%20DESIGN.pdf"> Click here for Presentation</a>
 
-# References 📝🖼️
-
-@inproceedings{choi2021viton,
-  title={VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization},
-  author={Choi, Seunghwan and Park, Sunghyun and Lee, Minsoo and Choo, Jaegul},
-  booktitle={Proc. of the IEEE conference on computer vision and pattern recognition (CVPR)},
-  year={2021}
-}
 
 
