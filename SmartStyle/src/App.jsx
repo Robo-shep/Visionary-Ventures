@@ -19,9 +19,6 @@ function App() {
           </div>
         </div>
       </Router>
-      <div>
-        <h1>Hello world?</h1>
-      </div>
     </div>
   );
 }
