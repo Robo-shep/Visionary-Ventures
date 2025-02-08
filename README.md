@@ -14,7 +14,7 @@ Welcome to the Smart Style! This app provides personalized clothing suggestions 
 Frontend: HTML,CSS,JAVASCRIPT,REACT<br>
 Database: MongoDB<br>
 Backend:phython,Node.js
-
+<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/tech%20stack.PNG">
 # Usage 📝📜
 **Once the app is running:**
 
