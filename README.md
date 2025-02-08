@@ -1,8 +1,5 @@
 # Visionary-Ventures
-git add <C:\Users\Dell\Downloads>
-git commit -m "Add image"
-git push origin main
-![banner](C:\Users\Dell\Downloads)
+<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/Gray%20Minimalist%20New%20Collection%20Banner.png">
 
 
 **Introduction to Smart Style**<br>
