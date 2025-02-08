@@ -47,5 +47,13 @@ This allows you to visually evaluate the fit, color, and look of the clothing wi
 **Step 4: Upload Your Own Outfits**<br>
 Want to see how new clothes pair with your existing wardrobe? You can upload images of your current outfits and experiment with mixing and matching them. This lets you virtually try on new clothing pieces with what you already own.<br>
 You can combine and save different outfits, making it easy to plan your wardrobe choices and organize your clothes for future reference<br>
+# References
+
+@inproceedings{choi2021viton,
+  title={VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization},
+  author={Choi, Seunghwan and Park, Sunghyun and Lee, Minsoo and Choo, Jaegul},
+  booktitle={Proc. of the IEEE conference on computer vision and pattern recognition (CVPR)},
+  year={2021}
+}
 
 
