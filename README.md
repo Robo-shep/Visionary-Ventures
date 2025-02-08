@@ -53,6 +53,7 @@ This allows you to visually evaluate the fit, color, and look of the clothing wi
 **Step 4: Upload Your Own Outfits**<br>
 Want to see how new clothes pair with your existing wardrobe? You can upload images of your current outfits and experiment with mixing and matching them. This lets you virtually try on new clothing pieces with what you already own.<br>
 You can combine and save different outfits, making it easy to plan your wardrobe choices and organize your clothes for future reference<br>
+<a href="https://github.com/Robo-shep/Visionary-Ventures/blob/main/FASHION%20%26%20DESIGN.pdf">Presentation</a>
 
 # References 📝🖼️
 
