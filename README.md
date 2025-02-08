@@ -49,6 +49,7 @@ One of the key features is the virtual try-on experience. Here’s how it works:
 This allows you to visually evaluate the fit, color, and look of the clothing without having to physically try them on.<br>
 <img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/teaser.png"><br>
 <img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/ss6.PNG"><br>
+<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/ss8.PNG"><br>
 
 **Step 4: Upload Your Own Outfits**<br>
 Want to see how new clothes pair with your existing wardrobe? You can upload images of your current outfits and experiment with mixing and matching them. This lets you virtually try on new clothing pieces with what you already own.<br>
