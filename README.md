@@ -9,7 +9,7 @@ Upload Your Outfits: Upload your own outfits, mix and match pieces, and experime
 User-Friendly Interface: An intuitive interface that lets you navigate through outfit suggestions, try-ons, and preferences with ease.<br>
 # TECH STACK
 Frontend: HTML,CSS,JAVASCRIPT,REACT<br>
-Database: MongoDB
+Database: MongoDB<br>
 Backend:phython,
 # Usage
 **Once the app is running:**
