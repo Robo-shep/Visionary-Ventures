@@ -42,9 +42,10 @@ One of the key features is the virtual try-on experience. Here’s how it works:
 *Upload an Image:* Upload an image of yourself (or your body silhouette).<br>
 *Try On Clothes:* Select any clothing item from the recommendations and virtually try it on. The app overlays the clothing on your uploaded image to show how it would fit and look on your body. The system uses image processing and machine learning models to ensure the clothing aligns properly with your body shape and image.<br>
 This allows you to visually evaluate the fit, color, and look of the clothing without having to physically try them on.<br>
+<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/teaser.png">
+
 **Step 4: Upload Your Own Outfits**<br>
 Want to see how new clothes pair with your existing wardrobe? You can upload images of your current outfits and experiment with mixing and matching them. This lets you virtually try on new clothing pieces with what you already own.<br>
 You can combine and save different outfits, making it easy to plan your wardrobe choices and organize your clothes for future reference<br>
-<img src="https://github.com/Robo-shep/Visionary-Ventures/blob/main/teaser.png">
 
 
