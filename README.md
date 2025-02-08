@@ -30,6 +30,7 @@ Upon signing up or logging in, users are prompted to set up their profile by inp
 *Color Choices:* Specify preferred colors for clothing.<br>
 *Occasion Types:* Select preferences for different occasions (e.g., work, weekend, parties, etc.).<br>
 This profile setup helps personalize the recommendations and ensures that the clothes suggested match your tastes.<br>
+<img src= "https://github.com/Robo-shep/Visionary-Ventures/blob/main/ss3.PNG">
 **Step 2: Clothing Recommendations**<br>
 Once your profile is set, the app will use your preferences and provide personalized clothing recommendations. The recommendations are based on factors such as:<br>
 Clothing size<br>
